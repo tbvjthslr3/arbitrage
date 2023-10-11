@@ -10,6 +10,8 @@ import pykorbit
 import pyupbit
 import time
 
+#GIT 테스트
+
 ORDER_ELAPSED_LIMIT = 10             # 10초후 미체결 주문 취소
 
 with open("korbit.key") as f:
